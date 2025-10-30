@@ -89,3 +89,7 @@ public class Main {
         nota.tampilkanNota();
     }
 }
+
+    private void tampilkanNota() {
+
+    }
