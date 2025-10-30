@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/barubos.iml" filepath="$PROJECT_DIR$/barubos.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Tugas2modul3.iml" filepath="$PROJECT_DIR$/Tugas2modul3.iml" />
+>>>>>>> c913276ceede75b847b64aef33836b048df11fb0
     </modules>
   </component>
 </project>

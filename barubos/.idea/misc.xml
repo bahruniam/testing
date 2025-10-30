@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
+=======
+  <component name="JavadocGenerationManager">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$" />
+  </component>
+>>>>>>> c913276ceede75b847b64aef33836b048df11fb0
   <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
